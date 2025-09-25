@@ -1,0 +1,10 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
+    "files.associations": {
+        "user.h": "c",
+        "types.h": "c",
+        "stat.h": "c"
+    }
+}
